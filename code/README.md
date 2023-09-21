@@ -11,6 +11,7 @@ Voir le rapport pour plus de détails.
 
 
 **Exemples d'utilisation**
+
 utilisation 1 :
 *lancement du serveur dans le terminal 1* : ``python3 serveur.py graphes/graphe_petersen.txt 5000``
 *lancement des noeuds dans le terminal 2* : ``python3 noeuds.py graphes/graphe_petersen.txt 127.0.0.1 5000``
